@@ -30,10 +30,10 @@ define(bottomQuad, ($1b $2b $3b $4b))
 convertToMeters 1;
 
 // Inner square side half
-define(s, 0.003)
+define(s, 0.006)
 
 // Inner square side curvature
-define(sc, 0.006)
+define(sc, 0.007)
 
 // cylinder radius
 define(r, 0.0127)
